@@ -58,4 +58,4 @@ A mock dataset of a fintech firm provided in Excel format. The dataset consists 
 
 ## 🖼️ Project Screenshot
 
-([Finance KPI Dashboard.png](https://github.com/yuktamyadav/Power-BI-Finance-KPI-Dashboard/blob/main/Finance%20KPI%20Dashboard.png)) 
+ ![Image Alt](https://github.com/yuktamyadav/Power-BI-Finance-KPI-Dashboard/blob/6fc6125989e4ee1be703b40acfa542f159e48f60/Finance%20KPI%20Dashboard.png)
