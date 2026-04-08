@@ -58,4 +58,4 @@ A mock dataset of a fintech firm provided in Excel format. The dataset consists 
 
 ## 🖼️ Project Screenshot
 
-![Finance KPI Dashboard](Finance-KPI-Dashboard.png)
+![Finance KPI Dashboard](Finance KPI Dashboard.png) 
