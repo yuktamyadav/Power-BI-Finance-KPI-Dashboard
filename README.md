@@ -47,7 +47,7 @@ A mock dataset of a fintech firm provided in Excel format. The dataset consists 
 - **YTD Variance %** – Variance % for a year
 - **Months Target Reached** – Months when Variance exceeded 0
 
-### 📉 Analytical Tools & Visualizations
+### 📊 Analytical Tools & Visualizations
 
 - **Table Chart** – Displays metrics such as Sales Person, Picture, Actual Total Sales, Target Total Sales, Variance %, and an integrated Sparkline for Actual Total Sales per salesperson
 - **Clustered Column Chart** – Compares Actual and Target Total Sales across different months
