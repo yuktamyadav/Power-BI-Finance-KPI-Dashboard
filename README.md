@@ -56,6 +56,6 @@ A mock dataset of a fintech firm provided in Excel format. The dataset consists 
 - **Slicer Filter** – Filters data by different Sales Person teams
 - **Narrative** – Provides textual insights and outcomes from the data using ML
 
-## 🖼️ Project Screenshot
+## 🖼️ Project Snapshot
 
  ![Image Alt](https://github.com/yuktamyadav/Power-BI-Finance-KPI-Dashboard/blob/6fc6125989e4ee1be703b40acfa542f159e48f60/Finance%20KPI%20Dashboard.png)
